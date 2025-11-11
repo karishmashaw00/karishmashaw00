@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karishma Shaw</h1>
 <h3 align="center">An enthusiastic Front-end Developer with a passion of creating impactful and scalable web applications with using latest trends and technologies...</h3>
 
-- 🔭 I’m currently working on **Travelz Blog Website and Daily Live News Website**
+- 🔭 I’m currently working on **Employee Task Management**
 
 - 🌱 I’m currently learning **MERN stack**
 
